@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "webpack-dev-server --inline --hot --open",
+    "build": "webpack",
+    "json_server":"json-server --watch ./data.json"
+  },
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
+}

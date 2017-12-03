@@ -1,0 +1,6 @@
+{
+    "scripts":{
+        "dev":"webpack-dev-server --inline --hot --open",
+        "build":"webpack"
+    }
+}
